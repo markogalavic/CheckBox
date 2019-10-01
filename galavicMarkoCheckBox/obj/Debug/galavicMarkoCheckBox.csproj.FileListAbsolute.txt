@@ -1,0 +1,10 @@
+C:\Users\3.D\source\repos\galavicMarkoCheckBox\galavicMarkoCheckBox\obj\Debug\galavicMarkoCheckBox.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\galavicMarkoCheckBox\galavicMarkoCheckBox\obj\Debug\galavicMarkoCheckBox.checkBox.resources
+C:\Users\3.D\source\repos\galavicMarkoCheckBox\galavicMarkoCheckBox\obj\Debug\galavicMarkoCheckBox.Properties.Resources.resources
+C:\Users\3.D\source\repos\galavicMarkoCheckBox\galavicMarkoCheckBox\obj\Debug\galavicMarkoCheckBox.csproj.GenerateResource.cache
+C:\Users\3.D\source\repos\galavicMarkoCheckBox\galavicMarkoCheckBox\obj\Debug\galavicMarkoCheckBox.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\galavicMarkoCheckBox\galavicMarkoCheckBox\bin\Debug\galavicMarkoCheckBox.exe.config
+C:\Users\3.D\source\repos\galavicMarkoCheckBox\galavicMarkoCheckBox\bin\Debug\galavicMarkoCheckBox.exe
+C:\Users\3.D\source\repos\galavicMarkoCheckBox\galavicMarkoCheckBox\bin\Debug\galavicMarkoCheckBox.pdb
+C:\Users\3.D\source\repos\galavicMarkoCheckBox\galavicMarkoCheckBox\obj\Debug\galavicMarkoCheckBox.exe
+C:\Users\3.D\source\repos\galavicMarkoCheckBox\galavicMarkoCheckBox\obj\Debug\galavicMarkoCheckBox.pdb
